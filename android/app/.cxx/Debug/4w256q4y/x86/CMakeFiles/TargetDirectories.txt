@@ -1,0 +1,2 @@
+/Users/macbook/biboo-biboo_erp/android/app/.cxx/Debug/4w256q4y/x86/CMakeFiles/edit_cache.dir
+/Users/macbook/biboo-biboo_erp/android/app/.cxx/Debug/4w256q4y/x86/CMakeFiles/rebuild_cache.dir
